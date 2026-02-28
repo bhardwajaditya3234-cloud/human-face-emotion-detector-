@@ -1,6 +1,0 @@
-tensorflow-cpu
-opencv-python-headless
-numpy
-streamlit
-Pillow
-scikit-learn
